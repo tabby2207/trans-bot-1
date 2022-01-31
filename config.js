@@ -1,6 +1,6 @@
 module.exports = {
         px: '!',
-        watching: '!help để được hỗ trợ',
+        playing: '!help',
 
     opt: {
         DJ: {
