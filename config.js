@@ -1,6 +1,6 @@
 module.exports = {
         px: '!',
-        playing: 'Akai 🧑 Music Bot',
+        watching: '!help để được hỗ trợ',
 
     opt: {
         DJ: {
